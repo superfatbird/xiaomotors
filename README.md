@@ -1,5 +1,5 @@
 # xiaomotors
-Interact XL320 with circuitpython and arduino <br />
+Interact XL320 with circuitpython<br />
 Dynamixel protocal 2.0 <br />
 Full duplex uart to half duplex <br />
 ### hardware
