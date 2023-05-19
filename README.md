@@ -1,4 +1,5 @@
 # xiaomotors
+More information could be found in the wiki tab<br />
 Interact XL320 with circuitpython<br />
 Dynamixel protocal 2.0 <br />
 
